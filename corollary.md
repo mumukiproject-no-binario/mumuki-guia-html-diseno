@@ -1,0 +1,1 @@
+¡Felicitaciones! :clap: Ya sabés cómo diseñar el layout de una página web gracias a los conceptos y propiedades que aprendiste sobre HTML y CSS. Pudiste cambiar la disposición de los elementos con `display`, su posición con `position` y cambiar sus márgenes y bordes con `margin`, `padding` y `border`. :sunglasses:

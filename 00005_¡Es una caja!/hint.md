@@ -1,0 +1,1 @@
+Tené en cuenta que el margen exterior configura los márgenes laterales, superiores e inferiores.

@@ -1,0 +1,1 @@
+¡No se movió! :weary: Eso es porque el elemento debe estar _posicionado_ para que esas propiedades lo afecten. ¿Y cómo hacemos eso :face_with_raised_eyebrow:? ¡Sigamos!

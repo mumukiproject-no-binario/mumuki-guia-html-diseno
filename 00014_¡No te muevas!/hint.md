@@ -1,0 +1,1 @@
+La regla para modificar al personaje debería llamarse `.yobi`. :relieved:

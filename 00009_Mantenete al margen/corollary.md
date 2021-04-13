@@ -1,0 +1,1 @@
+¡Genial! :clap: Otra forma de especificar márgenes es con la siguiente notación: `margin: 2px 5px;`, donde dejaríamos `2px` arriba y abajo y `5px` a cada costado. ¡También sirve para `padding`!

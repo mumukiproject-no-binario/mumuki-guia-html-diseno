@@ -1,0 +1,11 @@
+---
+locale: es
+tags: []
+layout: input_right
+editor: free_form
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices: []
+name: Línea bloqueada

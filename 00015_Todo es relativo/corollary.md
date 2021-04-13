@@ -1,0 +1,1 @@
+¿Qué acaba de pasar? :sweat_smile: Moviste a Kibi con un margen de `50px` del límite superior y `50px` del izquierdo pero respecto de donde se encontraba inicialmente, no desde su contenedor. Para lograr esto usamos la posición _relativa_ (`position: relative`).

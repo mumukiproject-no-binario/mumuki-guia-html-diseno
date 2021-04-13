@@ -1,0 +1,30 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.slogan
+  inspection: DeclaresStyle:font-family:"Lato", "Helvetica Neue", "Helvetica", "Arial",
+    sans-serif
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.slogan
+  inspection: DeclaresStyle:color:rgb(11, 70, 93)
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.logo
+  inspection: DeclaresStyle:border-radius:2em
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.logo
+  inspection: Not:DeclaresStyle:border-width:5px
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.logo
+  inspection: Not:DeclaresStyle:border-style:solid
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.logo
+  inspection: Not:DeclaresStyle:border-color:rgb(26, 148, 163)
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.logo
+  inspection: DeclaresStyle:border:5px
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.logo
+  inspection: DeclaresStyle:border:solid
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.logo
+  inspection: DeclaresStyle:border:rgb(26, 148, 163)

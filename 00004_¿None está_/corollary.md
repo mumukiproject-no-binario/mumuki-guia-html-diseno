@@ -1,0 +1,1 @@
+Conozcamos el truco :tophat:: `none` es otro atributo que podemos usar con la propiedad `display` que hace que el elemento afectado "desaparezca" del layout, sin eliminarlo. ¡Pero cuidado! :warning: Tampoco va a ser leído por los dispositivos de accesibilidad.

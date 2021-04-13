@@ -1,0 +1,1 @@
+¡Muy bien! :clap: Con la propiedad `border-radius` podemos definir el tamaño del radio de las esquinas, es decir, que tan redondas queremos que sean :black_circle:. Cuando no lo ponemos un valor, lo que toma por defecto es `0`, haciendo a las esquinas cuadradas :black_medium_square:. Todo muy lindo pero quedó el borde muy cerquita del logo... :grimacing:

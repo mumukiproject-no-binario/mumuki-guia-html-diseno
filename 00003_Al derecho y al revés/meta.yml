@@ -1,0 +1,10 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: multiple_files
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices: []
+name: Al derecho y al revés

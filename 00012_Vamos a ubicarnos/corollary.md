@@ -1,0 +1,1 @@
+¡Funcionó! :smiley: Esto es porque dijimos que el `header` debía estar posicionado de forma _absoluta_ respecto de su contenedor. Así que lo movimos respecto a los límite del `body`. :sunglasses:

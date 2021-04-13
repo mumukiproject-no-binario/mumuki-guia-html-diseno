@@ -1,0 +1,18 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.slogan
+  inspection: DeclaresStyle:font-family:"Lato", "Helvetica Neue", "Helvetica", "Arial",
+    sans-serif
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.slogan
+  inspection: DeclaresStyle:color:rgb(11, 70, 93)
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.logo
+  inspection: DeclaresStyle:border-width:5px
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.logo
+  inspection: DeclaresStyle:border-style:solid
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.logo
+  inspection: DeclaresStyle:border-color:rgb(26, 148, 163)

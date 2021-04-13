@@ -1,0 +1,1 @@
+Ya aprendimos cómo cambiar la **forma** en que los elementos en una página web se ven pero, ¿podríamos también cambiar su *disposición* en la misma? ¡Averigüémoslo! :nerd:

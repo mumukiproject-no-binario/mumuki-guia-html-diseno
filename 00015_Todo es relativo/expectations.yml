@@ -1,0 +1,11 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.kibi
+  inspection: DeclaresStyle:position:relative
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.kibi
+  inspection: DeclaresStyle:top:50px
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.kibi
+  inspection: DeclaresStyle:left:50px

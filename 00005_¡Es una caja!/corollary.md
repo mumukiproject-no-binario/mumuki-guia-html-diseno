@@ -1,0 +1,1 @@
+¡Excelente! :tada: Para definir el margen interior, borde y margen exterior utilizaremos `padding`, `border` y `margin` respectivamente.

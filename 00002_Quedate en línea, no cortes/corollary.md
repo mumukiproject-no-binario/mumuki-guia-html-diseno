@@ -1,0 +1,1 @@
+¡Quedaron juntos! Como si estuviesen _en línea_ :open_mouth:, y todo gracias a la regla `display: inline`. Donde `display` es la propiedad que nos permite controlar el *layout* de nuestra página, es decir, la disposición de los elementos, e `inline` es el atributo que hizo que se vieran en la misma línea. :relieved:
